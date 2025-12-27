@@ -16,3 +16,7 @@ print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
 
 # Answering study drill questions:
+# car_pool_capacity came up as an error because it hadn't been defined.
+# The code had carpool_capacity, not car_pool_capacity.
+# 1. If we use 4 instead of 4.0, the mathematics is the same - it just doesn't display the decimal
+#   in the equation solution. 
