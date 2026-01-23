@@ -8,3 +8,5 @@ my_hair = 'Brown'
 
 print(f"Let's talk about {my_name}.")
 print(f"He's {my_height} inches tall.")
+print(f"He's {my_weight} pounds heavy.")
+print("Actually that's not too heavy.")
