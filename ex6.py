@@ -1,3 +1,4 @@
+# This variable tells us how many types of people there are in this excellent joke setup
 types_of_people = 10
 x = f"There are {types_of_people} types of people."
 
