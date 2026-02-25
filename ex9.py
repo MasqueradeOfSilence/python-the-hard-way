@@ -11,7 +11,7 @@ print("Here are the days: ", days)
 print("Here are the months: ", months)
 
 # Here we print with newlines! Without having to write \n.
-# Also, we have more freedome with formatting now using this triple-quote setup. 
+# Also, we have more freedom with formatting now using this triple-quote setup.
 print("""
 There's something going on here.
 With the three double-quotes.
