@@ -9,4 +9,5 @@ print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 
 '''
 Study Drills:
+1. Python's input 
 '''
