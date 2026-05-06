@@ -15,4 +15,5 @@ print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 #     Equivalent to eval(raw_input(prompt)).
 # END QUOTE
 
-# What does this command do? 
+# What does this command do?
+# pydoc automatically generates documentation using docstrings or comments
