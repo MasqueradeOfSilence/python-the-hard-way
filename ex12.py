@@ -17,5 +17,5 @@ print(f"So, you're {age} old, {height} tall and {weight} heavy.")
 
 # What does this command do?
 # pydoc is Python's built-in help system that lets you look up Python documentation.
-# It can also generate docs but that's outside the scope of this exercise. 
+# It can also generate docs but that's outside the scope of this exercise.
 
