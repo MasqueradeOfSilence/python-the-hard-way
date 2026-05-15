@@ -6,3 +6,9 @@ print("The script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
+
+# Study Drills
+# 1. The error occurs about having too many values to unpack when you put in less than the expected number of args.
+# 2.
+# 3.
+# 4. OK. 
