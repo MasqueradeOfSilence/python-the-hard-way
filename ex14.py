@@ -22,5 +22,6 @@ And you have a {computer} computer.  Nice.
 
 # Study Drills:
 
-# Zork and Adventure are text-based RPGs from the early 80s. Will play at https://classicreload.com/zork-i.html
+# 1. Zork and Adventure are text-based RPGs from the early 80s. Will play at https://classicreload.com/zork-i.html
+
 
