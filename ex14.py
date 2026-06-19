@@ -1,7 +1,7 @@
 from sys import argv
 
 script, user_name = argv
-prompt = '> '
+prompt = '💩 > '
 
 print(f"Hi {user_name}, I'm the {script} script.")
 print("I'd like to ask you a few questions.")
@@ -23,5 +23,6 @@ And you have a {computer} computer.  Nice.
 # Study Drills:
 
 # 1. Zork and Adventure are text-based RPGs from the early 80s. Will play at https://classicreload.com/zork-i.html
+# 2. Let's change the prompt to the poop emoji -> 💩 but keep the >
 
 
