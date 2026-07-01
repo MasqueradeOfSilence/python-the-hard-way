@@ -1,3 +1,4 @@
+# importing the argv lib
 from sys import argv
 
 script, filename = argv
