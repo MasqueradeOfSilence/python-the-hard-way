@@ -1,6 +1,7 @@
 # importing the argv lib
 from sys import argv
 
+# parsing
 script, filename = argv
 
 txt = open(filename)
