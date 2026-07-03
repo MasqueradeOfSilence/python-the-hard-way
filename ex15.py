@@ -1,7 +1,8 @@
 # importing the argv lib
 from sys import argv
 
-# parsing
+# parsing script and file name as arguments.
+# script is always an arg. The user must provide filename
 script, filename = argv
 
 txt = open(filename)
