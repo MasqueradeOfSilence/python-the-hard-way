@@ -5,6 +5,7 @@ from sys import argv
 # script is always an arg. The user must provide filename
 script, filename = argv
 
+# Opening file based on arg name
 txt = open(filename)
 
 print(f"Here's your file {filename}:")
