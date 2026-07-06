@@ -8,6 +8,7 @@ script, filename = argv
 # Opening file based on arg name
 txt = open(filename)
 
+# Tell the user what they just did
 print(f"Here's your file {filename}:")
 print(txt.read())
 
