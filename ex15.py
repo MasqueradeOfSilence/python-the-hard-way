@@ -10,6 +10,7 @@ txt = open(filename)
 
 # Tell the user what they just did
 print(f"Here's your file {filename}:")
+# print out the contents of the text file
 print(txt.read())
 
 print("Type the filename again:")
