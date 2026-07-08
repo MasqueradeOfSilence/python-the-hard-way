@@ -13,6 +13,7 @@ print(f"Here's your file {filename}:")
 # print out the contents of the text file
 print(txt.read())
 
+# Tell the user to type it again, OR ELSE
 print("Type the filename again:")
 file_again = input("< ")
 
