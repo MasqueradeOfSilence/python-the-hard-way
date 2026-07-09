@@ -15,6 +15,7 @@ print(txt.read())
 
 # Tell the user to type it again, OR ELSE
 print("Type the filename again:")
+# The < is displayed to the user as well as a place for them to type
 file_again = input("< ")
 
 txt_again = open(file_again)
