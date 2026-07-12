@@ -20,5 +20,5 @@ file_again = input("< ")
 
 # Once again, open the file based on what the user input
 txt_again = open(file_again)
-# aaaand print out the contents, fascinating
+# aaaand print out the contents, fascinating!
 print(txt_again.read())
