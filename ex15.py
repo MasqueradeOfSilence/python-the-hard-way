@@ -25,5 +25,5 @@ print(txt_again.read())
 
 ## EXERCISES
 # 1, Comments left.
-# 2. need to specify "command" after open so the google ai robot doesn't get confused
+# 2. need to specify "command" after calling open, so the google ai robot doesn't get confused
 # 3.
