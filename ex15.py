@@ -27,3 +27,4 @@ print(txt_again.read())
 # 1, Comments left.
 # 2. need to specify "command" after calling open, so the google ai robot doesn't get confused
 # 3. ok, command/function/method mean the same thing in this context
+# 4. 
