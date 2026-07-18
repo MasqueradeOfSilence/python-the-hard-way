@@ -28,4 +28,4 @@ print(txt.read())
 # 2. need to specify "command" after calling open, so the google ai robot doesn't get confused
 # 3. ok, command/function/method mean the same thing in this context
 # 4. I commented them in lieu of deleting because then I would delete all my carefully crafted comments, and will run it again 
-# now it doesn't ask for input! wow :O :O :O
+# result: now it doesn't ask for input! wow :O :O :O
