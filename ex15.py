@@ -29,3 +29,5 @@ print(txt.read())
 # 3. ok, command/function/method mean the same thing in this context
 # 4. I commented them in lieu of deleting because then I would delete all my carefully crafted comments, and will run it again 
 # result: now it doesn't ask for input! wow :O :O :O
+# life is full of mysteries and amazing discoveries
+# 5. 
