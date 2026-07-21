@@ -3,7 +3,10 @@ from sys import argv
 
 # parsing script and file name as arguments.
 # script is always an arg. The user must provide filename
-script, filename = argv
+# script, filename = argv
+
+# adding in input instead of argv for (5)
+filename = input("give me your filename if you don't want me to commit many crimes: ")
 
 # Opening file based on arg name
 txt = open(filename)
