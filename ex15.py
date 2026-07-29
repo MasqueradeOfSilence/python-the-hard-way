@@ -34,5 +34,5 @@ print(txt.read())
 # result: now it doesn't ask for input! wow :O :O :O
 # life is full of mysteries and amazing discoveries
 # 5. To use only input, we would not depend on argv at all, instead passing the value entered in input to the open() command.
-# I did this above. Result:
+# I did this above. Result: it does, in fact, ask you for input again. wow
 # 6.
