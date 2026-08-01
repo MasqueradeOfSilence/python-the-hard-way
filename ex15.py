@@ -35,4 +35,4 @@ print(txt.read())
 # life is full of mysteries and amazing discoveries
 # 5. To use only input, we would not depend on argv at all, instead passing the value entered in input to the open() command.
 # I did this above. Result: it does, in fact, ask you for input again. wow. exciting
-# 6. python3.6: 
+# 6. python3.6: I have observed that yes, I can do this directly within the python3 console.  
