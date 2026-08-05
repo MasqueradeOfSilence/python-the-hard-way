@@ -17,14 +17,18 @@ print(f"Here's your file {filename}:")
 print(txt.read())
 
 # Tell the user to type it again, OR ELSE
-# print("Type the filename again:")
+print("Type the filename again:")
 # The < is displayed to the user as well as a place for them to type
-# file_again = input("< ")
+file_again = input("< ")
 
 # Once again, open the file based on what the user input
-# txt_again = open(file_again)
+txt_again = open(file_again)
 # aaaand print out the contents, fascinating!
-# print(txt_again.read())
+print(txt_again.read())
+
+# close them as per exercise 7
+txt.close()
+txt_again.close()
 
 ## EXERCISES
 # 1, Comments left.
@@ -37,4 +41,4 @@ print(txt.read())
 # I did this above. Result: it does, in fact, ask you for input again. wow. exciting
 # 6. python3.6: I have observed that yes, I can do this directly within the python3 console.
 # 7. So I guess we uncomment again? It's ambiguous 
-#
+# yeah, I just uncommented
