@@ -41,4 +41,4 @@ txt_again.close()
 # I did this above. Result: it does, in fact, ask you for input again. wow. exciting
 # 6. python3.6: I have observed that yes, I can do this directly within the python3 console.
 # 7. So I guess we uncomment again? It's ambiguous 
-# yeah, I just uncommented
+# yeah, I just uncommented it and did ex 7. result:
