@@ -40,5 +40,4 @@ txt_again.close()
 # 5. To use only input, we would not depend on argv at all, instead passing the value entered in input to the open() command.
 # I did this above. Result: it does, in fact, ask you for input again. wow. exciting
 # 6. python3.6: I have observed that yes, I can do this directly within the python3 console.
-# 7. So I guess we uncomment what we previously commented out again? It's ambiguous
-# yeah, I just uncommented it and did ex 7. result: it worked as usual, but cleaned out the streams after for best Python practice.
+# 7. Uncommenting what was previously commented out. Result: it worked as usual, but cleaned out the streams after for best Python practice.
