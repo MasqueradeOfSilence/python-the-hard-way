@@ -33,4 +33,6 @@ print("And finally, we close it.")
 target.close()
 
 # Exercises
-# 1. since the comment thing is optional, SKIPPING
+# 1. since the comment thing is optional, SKIPPING.
+# run before continuing:
+# 2.
