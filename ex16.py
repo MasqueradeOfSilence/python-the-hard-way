@@ -33,6 +33,5 @@ print("And finally, we close it.")
 target.close()
 
 # Exercises
-# 1. since the comment thing is optional, SKIPPING.
-# run before continuing:
-# 2.
+# 1. since the comment thing is optional, SKIPPING. Program ran as expected based on the example.
+# 2. I assume the read and argv they want is referring to test.txt, not something I create inside of *that* script
