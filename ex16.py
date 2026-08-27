@@ -34,4 +34,4 @@ target.close()
 
 # Exercises
 # 1. since the comment thing is optional, SKIPPING. Program ran as expected based on the example.
-# 2. I assume the read and argv they want is referring to test.txt, not something I create inside of *that* script
+# 2. Done in ex16_exercise_2_read_and_argv.py
