@@ -29,9 +29,12 @@ target.write("\n")
 target.write(line3)
 target.write("\n")
 
+# TODO ex3
+
 print("And finally, we close it.")
 target.close()
 
 # Exercises
 # 1. since the comment thing is optional, SKIPPING. Program ran as expected based on the example.
 # 2. Done in ex16_exercise_2_read_and_argv.py
+# 3.
