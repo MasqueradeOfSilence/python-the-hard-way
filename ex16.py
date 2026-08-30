@@ -24,12 +24,12 @@ print("I'm going to write these to the file.")
 
 target.write(f"{line1}\n{line2}\n{line3}\n")
 
-# TODO ex3
-
 print("And finally, we close it.")
 target.close()
 
 # Exercises
 # 1. since the comment thing is optional, SKIPPING. Program ran as expected based on the example.
 # 2. Done in ex16_exercise_2_read_and_argv.py
-# 3.
+# 3. Done.
+# 4. The default in python is 'r', which we don't want.
+# 5. 
