@@ -31,5 +31,5 @@ target.close()
 # 1. since the comment thing is optional, SKIPPING. Program ran as expected based on the example.
 # 2. Done in ex16_exercise_2_read_and_argv.py
 # 3. Done.
-# 4. The default in python is 'r', which we don't want.
-# 5. 
+# 4. The default in python is 'r', which we don't want. That's why we pass 'w' when we want to write. 
+# 5.
