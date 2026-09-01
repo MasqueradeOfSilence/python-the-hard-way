@@ -32,4 +32,4 @@ target.close()
 # 2. Done in ex16_exercise_2_read_and_argv.py
 # 3. Done.
 # 4. The default in python is 'r', which we don't want. That's why we pass 'w' when we want to write. 
-# 5.
+# 5. Python's documentation for open() at https://docs.python.org/3/library/functions.html#open says that w+ truncates the file, but w doesn't, so a truncation call is still necessary.  
