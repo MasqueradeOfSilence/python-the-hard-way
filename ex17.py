@@ -25,4 +25,4 @@ in_file.close()
 
 # Results from running:
 
-# Exercises: 
+# Exercises:
