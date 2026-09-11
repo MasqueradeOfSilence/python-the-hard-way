@@ -23,6 +23,6 @@ print("Alright, all done.")
 out_file.close()
 in_file.close()
 
-# Results from running:
+# Results from running: File is copied successfully!
 
 # Exercises:
