@@ -22,3 +22,4 @@ out_file.close()
 in_file.close()
 
 # NOTE: Converting this to one line may be difficult with imports. What did he mean by this?
+# semicolons to separate the lines?
