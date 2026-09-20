@@ -16,8 +16,6 @@ print(f"Does the output file exist? {exists(to_file)}")
 out_file = open(to_file, 'w')
 out_file.write(indata)
 
-print("fin")
-
 out_file.close()
 in_file.close()
 
