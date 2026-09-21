@@ -29,4 +29,5 @@ in_file.close()
 # 2. I am sure I could make it 1 line long as well. (TODO)
 #   Line: I am going to put this in the file `ex17_oneliner.py`.
 # 3. OK, I typed man cat, and I know what it does and what the parameters are.
-# 4.
+#   Alpine on iSH doesn't like it though
+# 4. 
