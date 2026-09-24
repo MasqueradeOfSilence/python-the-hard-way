@@ -20,3 +20,4 @@ out_file.close()
 
 # NOTE: Converting this to one line may be difficult with imports. What did he mean by this?
 # semicolons to separate the lines?
+# no, we can do argv directly and just not close the streams, I suppose, and minimize user output
