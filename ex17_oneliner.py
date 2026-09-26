@@ -25,3 +25,4 @@ out_file.close()
 # semicolons to separate the lines?
 # no, we can do argv directly and just not close the streams, I suppose, and minimize user output
 # don't we still need to import argv though, even if we remove the exists test?
+# maybe that's what the semicolon is for?
