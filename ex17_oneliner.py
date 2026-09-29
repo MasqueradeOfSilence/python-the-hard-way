@@ -26,3 +26,10 @@ out_file.close()
 # no, we can do argv directly and just not close the streams, I suppose, and minimize user output
 # can we do: __import__('sys').argv ?
 # open((__import__('sys').argv)[1], 'w')
+# Let's translate line by line actually
+# indata will now be open(__import__('sys').argv)[1]).read(), I think
+# so nest that within out_file
+# outfile is open(all that crap, 'w')
+# so now = open(open(__import__('sys').argv[1]).read(), 'w')
+# then call write on that. 
+
