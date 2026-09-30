@@ -30,6 +30,11 @@ out_file.close()
 # indata will now be open(__import__('sys').argv)[1]).read(), I think
 # so nest that within out_file
 # outfile is open(all that crap, 'w')
-# so now = open(open(__import__('sys').argv[1]).read(), 'w')
+# so now = (open(__import__('sys').argv[1]).read(), 'w')
 # then call write on that. 
+# but you have to pass indata again
+# nope. to_file is just another input! 
+
+# Translate it line by line here: 
+# indata = open(__import__('sys').argv[1]).read()
 
