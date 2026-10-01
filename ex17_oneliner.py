@@ -37,4 +37,5 @@ out_file.close()
 
 # Translate it line by line here: 
 # indata = open(__import__('sys').argv[1]).read()
+# out_file = open(__import__('sys').argv[2]), 'w')
 
