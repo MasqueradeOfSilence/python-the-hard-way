@@ -29,4 +29,5 @@ in_file.close()
 # 2. I put this in `ex17_oneliner.py`.
 # 3. OK, I typed man cat, and I know what it does and what the parameters are.
 #   Alpine on iSH doesn't like it though
-# 4. 
+# 4. We call close because it's best practice, and because it saves data and frees up OS resources.
+# 5. OK, I know python's import statement extremely well, so. And its many variations.
