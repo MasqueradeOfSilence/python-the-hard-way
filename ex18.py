@@ -20,4 +20,5 @@ print_two("Zed", "Shaw")
 print_two_again("Zed", "Shaw")
 print_one("First!")
 print_none()
-# Study Drills: function checklist
+# Study Drills: function checklist (Put on notecard too)
+# 1. Did you start your function definition with def?
