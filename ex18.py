@@ -22,3 +22,5 @@ print_one("First!")
 print_none()
 # Study Drills: function checklist (Put on notecard too)
 # 1. Did you start your function definition with def?
+# 2. Does your function name have only characters and _ (underscore) characters? 
+# 3. Did you put an open parenthesis ( right after the function name?
