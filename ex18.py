@@ -20,7 +20,7 @@ print_two("Zed", "Shaw")
 print_two_again("Zed", "Shaw")
 print_one("First!")
 print_none()
-# Study Drills: function checklist (Put on notecard too)
+# Study Drills: function checklist (Put on notecard too...lol who am I kidding I'm not going to do that.)
 # 1. Did you start your function definition with def?
 # 2. Does your function name have only characters and _ (underscore) characters? 
 # 3. Did you put an open parenthesis ( right after the function name?
