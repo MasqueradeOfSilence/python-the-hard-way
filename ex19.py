@@ -46,3 +46,7 @@ cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 # for (3), fine:
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(67, 666, 69)
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(69 - 2, 1924 + 2, 1133 // 4)
+cc = 6
+bc = 12
+gg = 1222
+i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cc, bc, gg)
