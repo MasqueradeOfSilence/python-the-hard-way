@@ -51,4 +51,5 @@ bc = 12
 gg = 1222
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count, bc, gg)
 # that was only 3 ways augh
-# 7 more...: 
+# 7 more...:
+i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count, 69, 420 * 666)
