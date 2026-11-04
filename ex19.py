@@ -52,4 +52,9 @@ gg = 1222
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count, bc, gg)
 # that was only 3 ways augh
 # 7 more...:
+# Does this count as an additional one?
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count, 69, 420 * 666)
+
+def put_the_value_69_in_because_nice():
+    return 69
+i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(put_the_value_69_in_because_nice(), 666, 67)
