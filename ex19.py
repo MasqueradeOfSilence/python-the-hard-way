@@ -62,3 +62,9 @@ i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(put_the_value_69_in_becau
 # 3
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count + 87, put_the_value_69_in_because_nice() - 12, 6)
 # 4
+
+# 5
+
+# 6
+
+# 7, the last one
