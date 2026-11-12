@@ -65,7 +65,8 @@ i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(cheese_count + 87, put_th
 your_mom = False
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(17 if your_mom else 32, 666, 67)
 # 5
-
+import random
+i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(random.randint(3, 6), random.randint(1924, 55555), 1)
 # 6
 
 # 7, the last one
