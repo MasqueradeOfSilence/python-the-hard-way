@@ -71,3 +71,4 @@ i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(random.randint(3, 6), ran
 i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(random.randint(3, 6) if your_mom else 32, gg,
                                                        put_the_value_69_in_because_nice() if random.randint(3, 6) == 4 else 666)
 # 7, the last one
+i_eat_all_of_your_cheese_and_crackers_because_i_am_fat(int("32"), int("666"), int(your_mom))
