@@ -18,3 +18,5 @@ print("First let's print the whole file:\n")
 print_all(current_file)
 
 print("Now let's rewind, kind of like a tape.")
+
+print_all(current_file)
