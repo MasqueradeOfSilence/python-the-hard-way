@@ -1,3 +1,4 @@
+# import needed libraries
 from sys import argv
 
 script, input_file = argv
@@ -32,3 +33,4 @@ print_a_line(current_line, current_file)
 current_line = current_line + 1
 print_a_line(current_line, current_file)
 
+# result of running:
