@@ -4,6 +4,7 @@ from sys import argv
 # read argv
 script, input_file = argv
 
+# print them all
 def print_all(f):
     print(f.read())
 
